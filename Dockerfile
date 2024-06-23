@@ -21,3 +21,7 @@ EXPOSE 3000
 
 # Comando para iniciar a aplicação
 CMD ["node", "app.js"]
+
+
+# Comando para executar a aplicação
+#CMD ["npm", "start"]
